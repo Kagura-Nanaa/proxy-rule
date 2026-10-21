@@ -1,0 +1,67 @@
+
+# ========================================
+# OpenAI / ChatGPT
+# ========================================
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+# ========================================
+# Anthropic / Claude
+# ========================================
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# ========================================
+# Google Gemini / Google AI Studio
+# ========================================
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN,ai.google.dev
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+
+# ========================================
+# Microsoft Copilot / Bing
+# ========================================
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN,r.bing.com
+DOMAIN,edgeservices.bing.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,services.bingapis.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.com
+
+# ========================================
+# Google Antigravity
+# ========================================
+DOMAIN,antigravity.google
+DOMAIN-SUFFIX,antigravity.google
+
+# ========================================
+# Meta AI
+# ========================================
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+
+# ========================================
+# 第三方服务 / 通用依赖
+# 以下域名并非 AI 平台专用
+# ========================================
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,sentry.io
